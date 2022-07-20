@@ -5,7 +5,7 @@
 body {
     font-family: 'Kaushan Script', sans-serif;
     overflow-x: hidden;
-    background-color: black;
+    background-color: #8683bd;
 }
 
 
@@ -40,7 +40,7 @@ body {
 /*===================SECCION IEN MAPA==========================*/
 #local {
     margin-top:50px;
-    background-color: #151414;
+    background-color:#8683bd;
     display:flex;
     justify-content: center; 
     padding-bottom: 300px; 
@@ -90,7 +90,7 @@ body {
 } 
 
  #seccion-contacto{
-    background-color: #1b2a4e;
+    background-color: #8683bd;
     min-height:500px;
     position:relative;
 }
@@ -104,12 +104,12 @@ body {
     transform: translate(-50%, -50%);
     background: #fbfafa;
     border-radius:5px;
-    background-color: black;
+    background-color: #8683bd;
     
 }
 
 #titulo-formulario {
-    color: #0c0b0b;
+    color: #8683bd;
 }
 
 
@@ -118,7 +118,7 @@ body {
 /*=========================FOOTER================================*/
 
 footer {
-    background: #111;
+    background: #8683bd;
     min-height: 100px;;
 }
 footer p{
@@ -126,9 +126,9 @@ footer p{
     text-align:center;
 }
 #iconos  i {
-    font-size: 40px;
-    padding: 0 10px;
-    color: rgb(79, 83, 135);
+    font-size: 50px;
+    padding: 0 30px;
+    color: rgb(23, 70, 167);
 }
 /*=========================MEDIA QUERIES PANTALLA ANCHA================================*/
 
